@@ -1,0 +1,32 @@
+body {
+    background-color: purple; 
+    text-align: center; 
+    font-size: 24px; 
+
+}
+
+h1 {
+    font-size: 76px; 
+}
+
+h2 {
+    font-size: 48px;
+}
+
+h3 {
+    font-size: 33px; 
+}
+button {
+    background-color: white; /* Color de fondo verde */
+    color: black; /* Color de texto blanco */
+    padding: 15px 25px; /* Espacio interno del botón */
+    font-size: 20px; /* Tamaño de fuente */
+    border: none; /* Sin borde */
+    cursor: pointer; 
+    border-radius: 5px;
+}
+
+
+button:hover {
+    background-color: plum; 
+}
